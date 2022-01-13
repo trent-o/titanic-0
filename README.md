@@ -1,1 +1,1 @@
-# titanic-0
+# titanic-kaggle competition
